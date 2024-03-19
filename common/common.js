@@ -34,13 +34,13 @@ var ftrData = [
 |---                    Firebase                    ---|
 \* -------------------------------------------------- */
 const firebaseConfig = {
-    apiKey: "AIzaSyA6imB2RfnEt33HwDM7bau_ENl2AqKvkZo",
-    authDomain: "collegewebsite-97395.firebaseapp.com",
-    projectId: "collegewebsite-97395",
-    storageBucket: "collegewebsite-97395.appspot.com",
-    messagingSenderId: "243874537979",
-    appId: "1:243874537979:web:d93808fb9fc3f7f57fab5e",
-    measurementId: "G-5XV400E00S"
+    apiKey: "AIzaSyDLPiHo-CxkeipJljJwpJAc0QvsdvB1G28",
+    authDomain: "pttbmcwebsite.firebaseapp.com",
+    projectId: "pttbmcwebsite",
+    storageBucket: "pttbmcwebsite.appspot.com",
+    messagingSenderId: "391257849690",
+    appId: "1:391257849690:web:ddba7dc86a9b20c941fd63",
+    measurementId: "G-MHER4KWH34"
 };
 const app = firebase.initializeApp(firebaseConfig);
 const analytics = firebase.analytics(app);
